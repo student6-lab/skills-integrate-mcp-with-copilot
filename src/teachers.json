@@ -1,0 +1,9 @@
+{
+  "teachers": [
+    {
+      "username": "admin",
+      "salt": "401411ed0eafb0b65452bbeec786526f",
+      "password_hash": "5118f183b26a4834a7a904f7c2639f3209768dfe76109a7ce5786e4407b7a7e1"
+    }
+  ]
+}

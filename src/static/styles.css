@@ -28,6 +28,25 @@ header h1 {
   margin-bottom: 10px;
 }
 
+#auth-status {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+#auth-status button {
+  margin-left: 10px;
+  padding: 4px 10px;
+  font-size: 14px;
+}
+
+#login-container form {
+  margin-bottom: 15px;
+}
+
+#login-container form:last-child {
+  margin-bottom: 0;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
